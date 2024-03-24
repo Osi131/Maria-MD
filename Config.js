@@ -1,4 +1,4 @@
-const fs = require('fs')
+.const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
